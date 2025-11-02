@@ -378,7 +378,6 @@ After verification, the canteen operator serves the meal 🍛 — completing a *
 
 ---
 
----
 
 ## 🌟 The Impact of Easy Coupon
 
