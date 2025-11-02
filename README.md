@@ -85,6 +85,17 @@ Transforming a manual welfare process into a **smart, mobile-first digital ecosy
 
 ## 📱 Mobile App Overview
 
+<h3 align="center">💚 “A Smarter, Greener, and Fairer Way to Serve Every Student.” 💚</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Enabled-blue?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Environment-Friendly-success?style=for-the-badge&logo=leaflet&logoColor=white">
+  <img src="https://img.shields.io/badge/Security-AES%20256%20Encryption-critical?style=for-the-badge&logo=lock&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud%20Integration-Google%20Cloud-orange?style=for-the-badge&logo=googlecloud&logoColor=white">
+</p>
+
+---
+
 ### 🧠 Built With  
 
 | Layer | Technology |
@@ -318,10 +329,142 @@ The student can then **show this confirmation** to the canteen operator to recei
 ---
 ## 🎬 Live Action with Easy Coupon
 
+> _A real-world demonstration of how Easy Coupon brings automation, convenience, and transparency to the Faculty canteen._
+
+---
+
+### 🏪 **Step 1 – QR Code at the Canteen**
+The **canteen operator** places a printed or digital **AES-encrypted QR code** near the counter. Students simply walk up and scan this QR using the Easy Coupon app — no paper coupons needed!
+
+<p align="center">
+  <img src="assets/images/EasyCouponLiveAction/1.%20QR%20code%20at%20the%20canteen.jpg" width="70%" alt="QR code displayed at canteen">
+</p>
+
+---
+
+### 📲 **Step 2 – Scanning the QR Code**
+Students open the app, choose how many coupons to redeem *(up to 3 per day)*, and scan the QR code to initiate the redemption securely.
+
+<p align="center">
+  <img src="assets/images/EasyCouponLiveAction/2.%20Scanning%20the%20QR%20code.jpg" width="70%" alt="Student scanning QR code">
+</p>
+
+---
+
+### ✅ **Step 3 – Instant Confirmation**
+The system instantly validates the scan and shows a **confirmation screen**. The redeemed amount is auto-deducted from the student’s monthly quota and reflected in the canteen dashboard in real time.
+
+<p align="center">
+  <img src="assets/images/EasyCouponLiveAction/3.%20Getting%20the%20confirmation.jpg" width="70%" alt="Redemption confirmation on app">
+</p>
+
+---
+
+### 👩‍🍳 **Step 4 – Show Confirmation to the Canteen Operator**
+The student presents the confirmation screen to the operator, verifying that the meal redemption is complete and recorded.
+
+<p align="center">
+  <img src="assets/images/EasyCouponLiveAction/4.%20Showing%20the%20confirmation%20to%20canteen%20operator.jpg" width="70%" alt="Showing confirmation to canteen operator">
+</p>
+
+---
+
+### 🍱 **Step 5 – Receiving the Meal**
+After verification, the canteen operator serves the meal 🍛 — completing a **secure, paper-free, end-to-end digital transaction** powered by Easy Coupon.
+
+<p align="center">
+  <img src="assets/images/EasyCouponLiveAction/5.%20Receiving%20the%20meal.jpg" width="70%" alt="Receiving the meal after confirmation">
+</p>
+
+---
+
+---
+
+## 🌟 The Impact of Easy Coupon
+
+> _Transforming a simple idea into a digital revolution at the Faculty of Engineering, University of Ruhuna._
+
+---
+
+### 🎯 **Key Achievements**
+
+| 🌱 | **Outcome** |
+|:--:|:-------------|
+| ⚙️ | **Reduced Manual Workload** – Automated the entire coupon reimbursement workflow, reducing manual effort for students and canteen operators by **over 90%**. |
+| 🧾 | **Paperless Transformation** – Eliminated the need for printed coupons, saving **hundreds of sheets per month** and contributing to a greener campus 🌿. |
+| 📊 | **Real-time Transparency** – Enabled the Welfare Society to **monitor coupon usage and canteen activity live**, with monthly report generation. |
+| 🔐 | **Secure & Reliable** – Leveraged **AES-256 encryption**, Firebase authentication, and Google Cloud Functions for complete system security and automation. |
+| 🚀 | **Scalable Foundation** – Built a framework that can be **replicated across universities** to modernize welfare food distribution systems nationwide. |
+
+---
+
+## 💬 Words of Appreciation
+
+This project was completed under the supervision and guidance of **[Dr. Kushan Sudheera](https://www.eng.ruh.ac.lk/deie/team/kushan-sudheera/)**,  
+_Senior Lecturer, Department of Electrical and Information Engineering,_  
+_Faculty of Engineering, University of Ruhuna._
+
+A special thanks to the **Welfare Society of the Faculty of Engineering** for their support, testing, and real-world feedback during deployment.
+
+Gratitude also goes to all **canteen operators and students** who participated in pilot testing and helped us refine the system into a practical success. 🙏
+
+---
+
+
+## 👨‍💻 Project Contributors  
+
+> _A passionate and dedicated team behind the Easy Coupon System_ 💚  
+
+
+| 👨‍🎓 **Contributor** | 💼 **Role** | 🌐 **GitHub Profile** |
+|:---------------------|:-------------------------------------|:----------------------------------------------------|
+| **Duwarahavidyan Jeganathan** | 🧭 Project Manager & Fullstack Developer | [@JDuwarahavidyan](https://github.com/JDuwarahavidyan) |
+| **Sachinthana Fernando** | 💻 Fullstack Developer | [@sfernando00](https://github.com/sfernando00) |
+| **Deshan Dissanayake** | 🧩 Fullstack Developer | [@DeshanTD](https://github.com/DeshanTD) |
+| **Tharuka Harshajith** | 🧠 Fullstack Developer | [@TharukaHarshajith](https://github.com/TharukaHarshajith) |
 
 
 ---
 
-<h4 align="center">✨ “From Tap to Meal — Seamless, Secure, and Smart.” ✨</h4>
+## 🔗 Explore More
 
+### 🖥️ **Easy Coupon Web Application**
+🌐 Explore the Admin Web Portal — built using **React.js**, **Node.js**, and **Express.js**  
+👉 [View on GitHub](https://github.com/JDuwarahavidyan/EasyCoupon-Web-Admin)
+
+
+
+### 🎬 **Easy Coupon Mobile App Demo**
+📱 A hands-on walkthrough of the Flutter + Firebase powered mobile application.  
+👉 [Watch the Full Demo](https://drive.google.com/file/d/15aHMUjwTxR9I2h3rzv2fBgldVgAmwlbH/view?usp=sharing)
+
+
+
+### 🎥 **Coupon Redemption Live Demo**
+🍽️ See the complete coupon redemption flow — from QR generation to meal confirmation.  
+👉 [View Redemption Demo](https://drive.google.com/file/d/1-z_r3Jxu-lJzZORPqzC_APLQIEcK_52C/view?usp=sharing)
+
+
+
+### 💼 **Full Project Story on LinkedIn**
+🧠 Learn how our team built, tested, and deployed Easy Coupon for the Faculty of Engineering.  
+👉 [Read the Full Post on LinkedIn](https://www.linkedin.com/posts/duwarahavidyan-jeganathan-763b6a192_flutter-firebase-reactjs-activity-7369382950934597679-Cmbt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1g0bsBkCY5HOF6iQ3bbHqumfI0SOo0-Dk)
+
+
+
+### 🏆 **Appreciation Post**
+🙏 See how our project was recognized and appreciated by faculty members and the Welfare Society.  
+👉 [View Appreciation Post](https://www.linkedin.com/posts/your-appreciation-post-link/)
+  
+
+---
+
+<h4 align="center">🌟 Smart • Secure • Sustainable – The Easy Coupon Experience in Real Life 🌟</h4>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Flutter%20%7C%20Firebase-blue?logo=flutter&logoColor=white">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Database-Firestore-orange?logo=firebase&logoColor=white">
+</p>
 
