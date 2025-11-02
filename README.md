@@ -193,8 +193,7 @@ Transforming a manual welfare process into a **smart, mobile-first digital ecosy
 
 ### 🔐 Login Page
 
-> _When an admin creates a new user account, a **temporary password** and username are automatically sent to the registered email address.  
-The user can then log in and securely configure their account credentials via the Easy Coupon mobile application._
+When an admin creates a new user account, a **temporary password** and username are automatically sent to the registered email address. The user can then log in and securely configure their account credentials via the Easy Coupon mobile application.
 
 
 <p align="center">
@@ -207,8 +206,7 @@ The user can then log in and securely configure their account credentials via th
 ---
 ### 🔑 Forgot Password Page
 
-> _If a user forgets their password, they can easily initiate a password reset process.  
-An email containing a **secure reset link** is sent to their registered address, allowing them to create a new password and regain access to their account._
+If a user forgets their password, they can easily initiate a password reset process. An email containing a **secure reset link** is sent to their registered address, allowing them to create a new password and regain access to their account.
 
 <p align="center">
   <br>
@@ -221,16 +219,13 @@ An email containing a **secure reset link** is sent to their registered address,
 
 ### 🏠 Home Page – Student & Canteen
 
-> _The Home Page provides an instant overview of the daily and monthly coupon usage for both students and canteen operators._  
->  
-> For **students**, the count shown as **“30”** represents the total number of welfare meal coupons available per month.  
-Each day, a student can redeem a maximum of **3 coupons**.  
-At the end of each month, this value automatically resets back to **30**.  
->  
-> For **canteen operators**, the value **“0”** represents the total number of coupons redeemed by students for the current day.  
-This count automatically resets to **0** at the start of each new day.  
->  
-> These automated resets are managed using **Google Cloud Functions**, ensuring data consistency and zero manual intervention. ⚡
+The Home Page provides an instant overview of the daily and monthly coupon usage for both students and canteen operators.
+
+For **students**, the count shown as **“30”** represents the total number of welfare meal coupons available per month. Each day, a student can redeem a maximum of **3 coupons**. At the end of each month, this value automatically resets back to **30**.  
+ 
+For **canteen operators**, the value **“0”** represents the total number of coupons redeemed by students for the current day. This count automatically resets to **0** at the start of each new day.  
+ 
+These automated resets are managed using **Google Cloud Functions**, ensuring data consistency and zero manual intervention. ⚡
 
 <p align="center">
   <br>
@@ -248,19 +243,15 @@ This count automatically resets to **0** at the start of each new day.
 ---
 ### 📷 QR Generator + QR Scanning + Confirmation Page
 
-> _The Easy Coupon system enables fast, secure, and contactless coupon redemption using encrypted QR codes._
+The Easy Coupon system enables fast, secure, and contactless coupon redemption using encrypted QR codes.
 
-> **Canteen operators** can generate unique **QR codes** each day directly from the app.  
-These QR codes can be **displayed digitally** or **printed and placed** near the canteen counter for student access.  
->
-> Every generated QR code is **encrypted using AES (Advanced Encryption Standard)** 🔐, ensuring that sensitive data inside cannot be read or modified externally.  
-These QR codes can **only be scanned via the official Easy Coupon mobile scanner**, guaranteeing security and preventing unauthorized use.  
->
-> **Students** can open their app, select how many coupons they want to redeem (up to **3 per day**), and **scan the canteen’s QR code**.  
-Once the QR is successfully scanned, a **confirmation screen** appears to verify a successful redemption.  
-The student can then **show this confirmation** to the canteen operator to receive their meal.  
->
-> This entire process ensures **data integrity, real-time synchronization**, and **end-to-end encryption** between students and canteen operators.
+ **Canteen operators** can generate unique **QR codes** each day directly from the app. These QR codes can be **displayed digitally** or **printed and placed** near the canteen counter for student access.  
+
+Every generated QR code is **encrypted using AES (Advanced Encryption Standard)** 🔐, ensuring that sensitive data inside cannot be read or modified externally. These QR codes can **only be scanned via the official Easy Coupon mobile scanner**, guaranteeing security and preventing unauthorized use.  
+
+**Students** can open their app, select how many coupons they want to redeem (up to **3 per day**), and **scan the canteen’s QR code**. Once the QR is successfully scanned, a **confirmation screen** appears to verify a successful redemption. The student can then **show this confirmation** to the canteen operator to receive their meal.  
+
+This entire process ensures **data integrity, real-time synchronization**, and **end-to-end encryption** between students and canteen operators.
 
 <p align="center">
   <br>
@@ -284,14 +275,14 @@ The student can then **show this confirmation** to the canteen operator to recei
 
 ### 📊 Report Page
 
-> _The Report Page provides powerful insights into coupon redemptions for both students and canteen operators._
+The Report Page provides powerful insights into coupon redemptions for both students and canteen operators.
 
-> Users can select a **custom date range** to view coupon redemption history with detailed tracking.  
->  
-> - **Students** can view **which canteens** they have redeemed coupons from within the selected date range.  
-> - **Canteen operators** can view **which students** redeemed coupons in their canteen, helping manage meal distribution efficiently.  
->  
-> The report system supports real-time data updates and promotes **transparency**, **accountability**, and **data-driven decision-making** for the welfare program.
+Users can select a **custom date range** to view coupon redemption history with detailed tracking.  
+
+- **Students** can view **which canteens** they have redeemed coupons from within the selected date range.  
+- **Canteen operators** can view **which students** redeemed coupons in their canteen, helping manage meal distribution efficiently.  
+  
+The report system supports real-time data updates and promotes **transparency**, **accountability**, and **data-driven decision-making** for the welfare program.
 
 <p align="center">
   <br>
